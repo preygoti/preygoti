@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=PREY%20GOTI&fontAlign=50&fontAlignY=40&fontSize=55&fontColor=ffffff&animation=twinkling&desc=AI%20%7C%20Cloud%20%7C%20Full%20Stack%20Engineering&descAlign=50&descAlignY=62&color=0:4c1d95,50:6d28d9,100:312e81" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Prey%20Goti&fontAlign=50&fontAlignY=40&fontSize=55&fontColor=ffffff&animation=twinkling&desc=AI%20%7C%20Cloud%20%7C%20Full%20Stack%20Engineering&descAlign=50&descAlignY=62&color=0:4c1d95,50:6d28d9,100:312e81" width="100%"/>
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=700&lines=B.Tech+Computer+Engineering+Student;AI+Engineer;Full+Stack+Developer;Cloud+%26+Data+Analytics+Enthusiast;Building+Intelligent+Digital+Experiences" alt="Typing SVG"/>
@@ -20,14 +20,10 @@
 <a href="mailto:preygoti11@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://github.com/preygoti">
-<img src="https://img.shields.io/badge/GitHub-preygoti-312E81?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+
 
 <br><br>
 
-<img src="https://img.shields.io/github/followers/preygoti?style=for-the-badge&color=6D28D9&label=FOLLOWERS"/>
-<img src="https://img.shields.io/github/stars/preygoti?style=for-the-badge&color=4C1D95&label=STARS"/>
 
 </div>
 
@@ -59,7 +55,7 @@ My engineering interests include:
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,sql,javascript&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript&theme=dark"/>
 </p>
 
 ### Frontend
@@ -229,35 +225,7 @@ Continuing professional development in Artificial Intelligence through an extend
 
 ---
 
-## Certifications
 
-### Google
-
-<img src="https://img.shields.io/badge/Google-Gemini%20Certified%20Student-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-
-### NPTEL
-
-<img src="https://img.shields.io/badge/NPTEL-AR%2FVR-6D28D9?style=for-the-badge&logo=academia&logoColor=white"/>
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=preygoti&layout=compact&theme=tokyonight&hide_border=true&title_color=A78BFA&text_color=CBD5E1&bg_color=0D1117"/>
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=preygoti&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7"/>
-
-</div>
 
 ---
 
@@ -317,7 +285,6 @@ Open To:
 ---
 
 <div align="center">
-
+<p style="font-size: 20px;"><em size="">"Build. Break. Learn. Repeat."</em></p>
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:312e81,50:6d28d9,100:4c1d95&section=footer" width="100%"/>
-
 </div>
