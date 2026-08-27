@@ -225,20 +225,6 @@ Continuing professional development in Artificial Intelligence through an extend
 
 ---
 
-
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=preygoti&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
 ## Contribution Snake
 
 <div align="center">
